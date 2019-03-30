@@ -1,0 +1,16 @@
+{
+  "name": "jake-theme",
+  "dark": true,
+  "author": "",
+  "editorScheme": "/META-INF/jake_theme.xml",
+  "ui": {
+    "*": {
+      "background": "#000000",
+      "inactiveBackground": "#000000",
+      "activeBackground": "#000000",
+      "selectionBackground": "#000000"
+    },
+    "EditorTabs.selectedBackground": "#383838",
+    "EditorTabs.inactiveMaskColor": "#000000"
+  }
+}
