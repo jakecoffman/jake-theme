@@ -8,7 +8,7 @@
       "background": "#000000",
       "inactiveBackground": "#000000",
       "activeBackground": "#000000",
-      "selectionBackground": "#000000"
+      "selectionBackground": "#0b293f"
     },
     "EditorTabs.selectedBackground": "#383838",
     "EditorTabs.inactiveMaskColor": "#000000"
