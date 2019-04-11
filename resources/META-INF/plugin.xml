@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>com.jakecoffman.theme</id>
   <name>Jake's Theme</name>
-  <version>1.1</version>
+  <version>1.2</version>
   <vendor email="jake@jakecoffman.com" url="https://www.jakecoffman.com">Jake Coffman</vendor>
 
   <!--  Makes it work on all products -->
@@ -17,7 +17,7 @@
   </change-notes>
 
   <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
-  <idea-version since-build="173.0"/>
+  <idea-version since-build="191.6183.87"/>
 
   <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
        on how to target different products -->
