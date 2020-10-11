@@ -1,4 +1,4 @@
-# jake-theme
+# Jake's Theme
 
 pitch black intellij theme
 
